@@ -1,0 +1,88 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-9464
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1943 outsize=615 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1630 outsize=1485 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1630 outsize=1965 kw= ok=1
+Cmd: preprocess
+  insize=2100 outsize=596 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1805 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1805 outsize=1688 kw= ok=1
+Cmd: preprocess
+  insize=1446 outsize=558 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1189 outsize=1558 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1189 outsize=1372 kw= ok=1
+Cmd: preprocess
+  insize=8783 outsize=1151 ok=1
+Cmd: preprocess
+  insize=3727 outsize=1294 ok=1
+Cmd: preprocess
+  insize=1699 outsize=647 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1354 outsize=1632 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1354 outsize=1437 kw= ok=1
+Cmd: preprocess
+  insize=1662 outsize=609 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1355 outsize=1485 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1355 outsize=1502 kw= ok=1
+Cmd: preprocess
+  insize=1215 outsize=451 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1066 outsize=1055 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1066 outsize=1217 kw= ok=1
+Cmd: preprocess
+  insize=2867 outsize=2867 ok=1
+Cmd: preprocess
+  insize=1486 outsize=523 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1265 outsize=1347 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1265 outsize=1437 kw= ok=1
+Cmd: preprocess
+  insize=8665 outsize=5755 ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (100): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=2669 outsize=1484 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1301 outsize=2103 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1301 outsize=1583 kw= ok=1
+Cmd: preprocess
+  insize=847 outsize=376 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=773 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=773 outsize=819 kw= ok=1
+Cmd: preprocess
+  insize=695 outsize=469 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=528 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=528 outsize=868 kw= ok=1
+Cmd: preprocess
+  insize=833 outsize=426 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=709 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=709 outsize=1047 kw= ok=1
+Cmd: preprocess
+  insize=459 outsize=459 ok=1
+Cmd: preprocess
+  insize=1959 outsize=1959 ok=1
+Cmd: preprocess
+  insize=1345 outsize=754 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=893 outsize=1266 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=893 outsize=1022 kw= ok=1

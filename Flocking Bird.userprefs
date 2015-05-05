@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Flocking\Boid Flocking.js">
+    <Files>
+      <File FileName="Assets\Flocking\Boid Controller.js" Line="13" Column="19" />
+      <File FileName="Assets\Flocking\Boid Flocking.js" Line="51" Column="1" />
+      <File FileName="Assets\Flocking\Boid Watcher.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
